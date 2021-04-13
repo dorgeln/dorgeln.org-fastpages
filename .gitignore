@@ -12,3 +12,12 @@ _notebooks/.ipynb_checkpoints
 .netlify
 .tweet-cache
 __pycache__
+
+# Ignore data
+_notebooks/data/*
+!_notebooks/data/in
+_notebooks/data/in/*
+!_notebooks/data/in/.gitkeep
+!_notebooks/data/out
+_notebooks/data/out/*
+!_notebooks/data/out/.gitkeep
