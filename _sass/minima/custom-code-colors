@@ -1,0 +1,15 @@
+$dt-purple: #c792ea;
+
+.highlight {
+    .k,
+    .o,
+    .cp,
+    .kc,
+    .kn,
+    .kp,
+    .kr,
+    .nt,
+    .ow {
+      color: $dt-purple;
+    }
+}

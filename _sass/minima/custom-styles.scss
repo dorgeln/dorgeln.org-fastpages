@@ -9,3 +9,25 @@
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
+
+/* @import "minima/fastpages-dracula-highlight"; */
+@import "minima/custom-code-colors";
+
+.input_area pre, .input_area div {
+    margin-bottom:2rem !important;
+    margin-top:1.5rem !important;
+    padding-bottom:0 !important;
+    padding-top:0 !important;
+    background: #323443 !important;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-family: DejaVu Sans Mono, monospace;
+    border-radius: 5px;
+    font-size: 100%;
+}
+
+/* make non-headings slightly lighter */
+.post-content p, .post-content li {
+   font-size: 18px;
+   color: #515151;
+}
