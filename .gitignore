@@ -21,3 +21,5 @@ _notebooks/data/in/*
 !_notebooks/data/out
 _notebooks/data/out/*
 !_notebooks/data/out/.gitkeep
+geckodriver.log
+node_modules
