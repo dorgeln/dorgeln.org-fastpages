@@ -10,11 +10,16 @@ title: Dorgeln.org
 description: Jupyter Notebooks for everything.
 github_username: dorgeln
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "dorgeln.org"
+github_repo: dorgeln.org
+
+binderhub_url: https://mybinder.org
+github_env_username: dorgeln
+github_env_repo: datascience
+github_env_branch: 0.0.7
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://dorgeln.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dorgeln.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############

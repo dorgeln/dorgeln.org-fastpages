@@ -1,6 +1,13 @@
 ---
 keywords: fastai
+description: Online Tooltips with classic image savings
 title: Altair Testdrive
+toc: false
+branch: master
+badges: true
+comments: false
+author: Andreas Trawöger
+categories: [arch]
 nb_path: _notebooks/2020-03-10-altair_testdrive.ipynb
 layout: notebook
 ---
