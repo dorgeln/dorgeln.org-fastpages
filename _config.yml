@@ -15,7 +15,7 @@ github_repo: dorgeln.org
 binderhub_url: https://mybinder.org
 github_env_username: dorgeln
 github_env_repo: datascience
-github_env_branch: 0.0.8
+github_env_branch: 0.0.9
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
