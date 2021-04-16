@@ -15,7 +15,7 @@ github_repo: dorgeln.org
 binderhub_url: https://mybinder.org
 github_env_username: dorgeln
 github_env_repo: datascience
-github_env_branch: 0.0.8
+github_env_branch: 0.0.9
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
@@ -54,7 +54,7 @@ use_math:
 show_description: true
 
 # Set this to true to display image previews on home page, if they exist
-show_image: false
+show_image: true
 
 # Set this to true to turn on annotations with hypothes.is (https://web.hypothes.is/)
 annotations: false
