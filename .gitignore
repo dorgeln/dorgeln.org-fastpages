@@ -24,6 +24,7 @@ _notebooks/data/out/*
 geckodriver.log
 node_modules
 _posts/*
+!_posts/.gitkeep
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
