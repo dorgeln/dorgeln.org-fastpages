@@ -16,7 +16,7 @@ github_branch: latest
 binderhub_url: https://mybinder.org
 github_env_username: dorgeln
 github_env_repo: bookmaker
-github_env_branch: 0.0.15
+github_env_branch: stable
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
