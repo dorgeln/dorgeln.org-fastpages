@@ -29,3 +29,4 @@ _posts/*
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 .Trash-1000/
+_notebooks/testing
